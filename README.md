@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Jitanka Sarkar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3><br>
 
 
-<img align="right" alt="Coding" width="400" height="270" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
+<img align="right" alt="Coding" width="400" height="220" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
 
 - 🔭 I’m currently working on **frontend development**
 
