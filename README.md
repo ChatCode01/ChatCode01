@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/ChatCode01/ChatCode01/blob/main/DEVELOPER.png)
 <h1 align="center">Hi 👋, I'm Jitanka Sarkar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
