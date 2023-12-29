@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jitanka0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="jitanka0" height="35" width="35" /></a>
-<a href="https://linkedin.com/in/jitanka sarkar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="jitanka sarkar" height="35" width="35" /></a>
+<a href="https://linkedin.com/Jitanka Sarkar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="jitanka sarkar" height="35" width="35" /></a>
 <a href="https://instagram.com/jitanka_01" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="jitanka_01" height="35" width="35" /></a>
 </p>
 
